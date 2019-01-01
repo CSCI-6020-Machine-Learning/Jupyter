@@ -1,8 +1,9 @@
-OSX Files
+#OSX Files
 .DS_Store
 
 
-Jupyter Articfacts
+#Jupyter Artifacts
 .ipynb_checkpoints/
 
-
+#Output files
+*.dot
